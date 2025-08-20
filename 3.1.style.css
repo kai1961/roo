@@ -1,0 +1,58 @@
+html {
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.box {
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px gray;
+  margin-bottom: 20px;
+}
+
+.em-container {
+  font-size: 16px;
+  padding: 1em;
+  background-color: #f0f0f0;
+}
+
+.em-container p {
+  font-size: 1.5em;
+}
+
+.em-container .double {
+  font-size: 2em;
+}
+
+.rem-box {
+  font-size: 1.2rem;
+  padding: 1rem;
+  border: 2px solid black;
+}
+
+.percent-container {
+  width: 80%;
+  background-color: #d9f7ff;
+  padding: 10px;
+}
+
+.hex-colors {
+  color: #ff0000;
+  background-color: #000000;
+  padding: 10px;
+}
+
+.rgb-colors {
+  color: rgb(0, 0, 255);
+  background-color: rgb(200, 200, 200);
+  padding: 10px;
+}
+
+.rgba-colors {
+  color: rgba(0, 128, 0, 0.9);
+  background-color: rgba(255, 200, 0, 0.4);
+  padding: 10px;
+}
