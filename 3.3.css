@@ -1,0 +1,19 @@
+/* .block {
+     background-color: lightblue;
+     margin: 10px 0;
+     padding: 10px;
+}
+
+h1 { background: #f4cccc; }     /* блочный */
+/* p { background: #c9daf8; }      /* блочный */
+/* .box { background: #d9ead3; }   блочный */
+/* img { background: #fff2cc; }    строчный */ 
+
+.inline-to-block {
+    display: block;
+}
+
+.block-to-inline {
+   display: inline;
+}
+
